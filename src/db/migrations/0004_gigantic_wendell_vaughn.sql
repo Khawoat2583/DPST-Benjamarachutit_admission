@@ -1,0 +1,1 @@
+ALTER TABLE "applications" ALTER COLUMN "announcement_order" DROP NOT NULL;

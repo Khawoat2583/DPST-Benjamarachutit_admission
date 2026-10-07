@@ -1,0 +1,1 @@
+ALTER TABLE "applications" ALTER COLUMN "reset_pin" SET DATA TYPE text;
