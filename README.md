@@ -1,6 +1,6 @@
 # DPST Admission System for Excellence (High School Level)
 ## Benjamarachutit School Center (DPST Admission Web System)
-> - Original & Develop source code credit : by "Nonbangkok"
+> - Develop credit : by "Nonbangkok"
 > - Co Develop Operation & Administration credit : by "Khawoat2583"
 ---
 
